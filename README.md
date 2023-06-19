@@ -1,6 +1,5 @@
-# predict-house-price
+# predict house price app
 
-## predict house price app
 This repository contains a web app for predicting prices based on features using XGBoost. The app is built with Flask.
 
 ## Installation
