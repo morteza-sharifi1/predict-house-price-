@@ -34,7 +34,7 @@ The first step in the project is to perform exploratory data analysis (EDA) on t
 the next step is to select the best features for predicting sales. This involves identifying the most important features that have the strongest relationship with the target variable, and discarding features that are redundant or less important.
 
 ## Model Building
-After performing feature selection, the next step is to build and evaluate various models for predicting sales. This involves training and testing different machine learning models, such as linear regression, Ridge, Lasso, BayesianRidge, ElasticNet, SGDRegressor, HuberRegressor, GradientBoosting, AdaBoostRegressor, ExtraTreesRegressor, RandomForestRegressor, BaggingRegressor, KNeighborsRegressor, DecisionTreeRegressor and XGBoost, and selecting the best performing model based on various evaluation metrics, such as R-squared.
+After performing feature selection, the next step is to build and evaluate various models for predicting sales. This involves training and testing different machine learning models, such as **linear regression**, **Ridge**, **Lasso**, **BayesianRidge**, **ElasticNet**, **SGDRegressor**, **HuberRegressor**, **GradientBoosting**, **AdaBoostRegressor**, **ExtraTreesRegressor**, **RandomForestRegressor**, **BaggingRegressor**, **KNeighborsRegressor**, **DecisionTreeRegressor** and **XGBoost**, and selecting the best performing model based on various evaluation metrics, such as R-squared.
 
 ## Model Deployment
 After selecting the best model, the final step is to deploy the model for predicting sales. This involves creating a final model using the entire dataset, and then saving the model as a serialized object that can be loaded and used for making predictions.
