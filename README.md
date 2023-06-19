@@ -6,7 +6,7 @@ This repository contains a web app for predicting prices based on features using
 ## Installation
 To run the app locally, you'll need to have Python 3.x installed on your system. You can then clone this repository and install the necessary dependencies using pip:
 
-git clone https://github.com/yourusername/predict-house-price.git
+git clone [https://github.com/yourusername/predict-house-price.git](https://github.com/morteza-sharifi1/predict-house-price-.git)
 cd predict-price-app
 pip install -r requirements.txt
 
